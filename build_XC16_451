@@ -19,7 +19,7 @@ BUILD_SHA=
 BUILDING_SHA=
 INSTALL_DIR=  
 XCLM_DIR=
-BUILD64=0
+BUILD64=1
 export ABI=32
 
 BUGURL="https://www.microchip.com/technical-support"
